@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @MrIbbyR
-- 👀 I’m interested in upskilling 
-- 🌱 I’m currently dipping into SRE 
+- 👀 I'm looking to not be stupid anymore 
 - 💞️ I’m looking to collaborate on my first projects 
 - 📫 How to reach me @ Linkiedin Ibby Rahman
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Very good at Street fighter 6!
 
 <!---
 MrIbbyR/MrIbbyR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
