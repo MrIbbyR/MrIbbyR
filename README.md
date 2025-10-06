@@ -2,7 +2,7 @@
 - 👀 I'm looking to not be stupid anymore 
 - 💞️ I’m looking to collaborate on my first projects 
 - 📫 How to reach me @ Linkiedin Ibby Rahman
-- ⚡ Fun fact: Very good at Street fighter 6!
+- ⚡ Fun fact: Using my learnings to automate my tech recuitment life! 
 
 <!---
 MrIbbyR/MrIbbyR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
