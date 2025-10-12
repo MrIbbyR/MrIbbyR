@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrIbbyR
-- 👀 I'm looking to not be stupid anymore 
+- 👀 I'm looking to learn
 - 💞️ I’m looking to collaborate on my first projects 
 - 📫 How to reach me @ Linkedin Ibby Rahman
 - ⚡ Fun fact: Using my learnings to automate my tech recuitment life! 
